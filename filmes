@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]2020[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/iconFilmes/iconFilmes.png</thumbnail>
+<thumbnail>https://archive.org/download/iconFilmes/iconFilmes2020.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes2020</externallink>
 <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
 <info>
@@ -16,13 +16,13 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]2019[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601408.us.archive.org/31/items/bemvindo_20200512/entrar.png</thumbnail>
+<thumbnail>https://archive.org/download/iconFilmes/iconFilmes2019.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes2019</externallink>
 <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] Lançamentos de 2018[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] Lançamentos de 2019[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,7 +30,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Filmes de Corridas[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601408.us.archive.org/31/items/bemvindo_20200512/entrar.png</thumbnail>
+<thumbnail>https://archive.org/download/iconFilmes/iconFilmesCorridas.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmesCorridas</externallink>
 <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
 <info>
