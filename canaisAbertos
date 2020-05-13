@@ -17,7 +17,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
  <item>
         <title>Animal Planet</title>
         <link>http://a.srvbr.me:8880/139179/139179/897</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -30,7 +30,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
  <item>
         <title>amc</title>
         <link>http://a.srvbr.me:8880/139179/139179/5077</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -43,7 +43,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>arte1</title>
         <link>http://a.srvbr.me:8880/139179/139179/894</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -56,7 +56,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>AXN</title>
         <link>http://a.srvbr.me:8880/139179/139179/893</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -69,7 +69,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>BAND</title>
         <link>http://a.srvbr.me:8880/139179/139179/5475</link>
-        <thumbnail>http://a.srvbr.me:8880/139179/139179/5475</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -81,7 +81,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>BAND NEWS</title>
         <link>http://a.srvbr.me:8880/139179/139179/890</link>
-        <thumbnail>http://a.srvbr.me:8880/139179/139179/890</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -93,7 +93,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>BAND SPORT</title>
         <link>http://a.srvbr.me:8880/139179/139179/888</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -105,7 +105,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>BOOMERANG</title>
         <link>http://a.srvbr.me:8880/139179/139179/884</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -117,7 +117,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>CARTOON NETWORK</title>
         <link>http://a.srvbr.me:8880/139179/139179/878</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -129,7 +129,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>CINEMAX</title>
         <link>http://a.srvbr.me:8880/139179/139179/876</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -141,7 +141,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>COMEDY CENTRAL</title>
         <link>http://a.srvbr.me:8880/139179/139179/873</link>
-        <thumbnail> </thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png </thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -153,7 +153,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
     <item>
         <title>XXX</title>
         <link>http://a.srvbr.me:8880/139179/139179/893</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
