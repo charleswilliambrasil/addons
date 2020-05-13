@@ -13,7 +13,7 @@
     <item>
         <title>Corridas Clandestinas</title>
         <link>mms://some/place/pokerchannel</link>
-        <thumbnail>http://channel.png</thumbnail>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
         <genre>Corrida</genre>
         <info>
 	Manuel Galloway é o líder de um grupo de motoqueiros que reúne, principalmente, 
@@ -23,9 +23,10 @@
 	</info>
         <date>18.07.2003</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
     </item>
-	    
+	
+	   
     <item>
         <title>Corridas Mortal I</title>
         <link>mms://some/place/pokerchannel</link>
