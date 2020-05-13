@@ -115,14 +115,26 @@ tp://a.srvbr.me:8880/139179/139179/5077
     </item>  
     ------------------------------------------------------------------------------  
     <item>
-        <title>XXX</title>
-        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <title>CARTOON NETWORK</title>
+        <link>http://a.srvbr.me:8880/139179/139179/878</link>
         <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+         <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>CINEMAX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/876</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Canais Abertos</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -134,7 +146,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+         <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -146,19 +158,7 @@ tp://a.srvbr.me:8880/139179/139179/5077
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------  
-    <item>
-        <title>XXX</title>
-        <link>http://a.srvbr.me:8880/139179/139179/893</link>
-        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+         <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
