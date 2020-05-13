@@ -61,7 +61,7 @@
          <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>
-    
+    <--
     ------------------------------------------------------------------------------  
     <item>
         <title>XXX</title>
@@ -159,4 +159,5 @@
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
+    !-->
    </items> 
