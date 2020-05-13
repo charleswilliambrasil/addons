@@ -17,12 +17,12 @@ tp://a.srvbr.me:8880/139179/139179/5077
  <item>
         <title>Animal Planet</title>
         <link>http://a.srvbr.me:8880/139179/139179/897</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/iconCOMBATE.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanarts/fanartCOMBATE.jpg</fanart>
    <date></date>  <!-- format - dd.mm.yyyy -->
    </item>
 
@@ -151,8 +151,8 @@ tp://a.srvbr.me:8880/139179/139179/5077
     </item>  
     ------------------------------------------------------------------------------  
     <item>
-        <title>XXX</title>
-        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <title>COMBATE</title>
+        <link>http://a.srvbr.me:8880/139179/139179/874</link>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
