@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info> <!-- this is opitonal -->
+      <title>Series/title> <!-- a title is required, other elements are optional -->
+      <genre>Series</genre>
+      <description>Filmes para quem gosta de corrida</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>Charles William</credits>
+    </items_info>
+
+------------------------------------------------------------------------------
+ <item>
+        <title>Animal Planet</title>
+        <link>http://a.srvbr.me:8880/139179/139179/897</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+   <date></date>  <!-- format - dd.mm.yyyy -->
+   </item>
+
+------------------------------------------------------------------------------
+ <item>
+        <title>amc</title>
+        <link>http://a.srvbr.me:8880/139179/139179/5077</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+   <date></date>  <!-- format - dd.mm.yyyy -->
+   </item>
+    
+  ------------------------------------------------------------------------------    
+    <item>
+        <title>arte1</title>
+        <link>http://a.srvbr.me:8880/139179/139179/894</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>
+  
+  ------------------------------------------------------------------------------    
+    <item>
+        <title>AXN</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>
+    
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+    <item>
+        <title>XXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
+        <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
+        <genre>Series</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------  
+   </items> 
