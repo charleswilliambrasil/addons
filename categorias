@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Filmes[/COLOR] [COLOR orangered]</name>
+<name>[COLOR orangered]Filmes[/COLOR]</name>
 <thumbnail>https://archive.org/download/iconFilmes/iconFilmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes</externallink>
 <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
