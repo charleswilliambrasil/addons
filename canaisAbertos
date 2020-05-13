@@ -14,17 +14,18 @@ tp://a.srvbr.me:8880/139179/139179/5077
     </items_info>
 
     <item>
-        <title>amc</title>
-        <link>http://a.srvbr.me:8880/139179/139179/5077</link>
+        <title>AXN</title>
+        <link>http://a.srvbr.me:8880/139179/139179/893</link>
         <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
-        <genre>Corrida</genre>
-        <info>
-	 
-	     </info>
+        <genre>Canais Abertos</genre>
+        <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
          <fanart>https://archive.org/download/fanartFilmesCorridas/fanartFilmesCorridas.jpg</fanart>
     </item>
+    
+        <date></date>  <!-- format - dd.mm.yyyy -->
+    
 	
 	   
     
