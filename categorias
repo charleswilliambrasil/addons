@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Filmes[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Filmes[/COLOR] [COLOR orangered]</name>
 <thumbnail>https://archive.org/download/iconFilmes/iconFilmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes</externallink>
 <fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
