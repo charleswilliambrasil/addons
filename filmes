@@ -41,3 +41,18 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Filmes de Ação[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601503.us.archive.org/12/items/iconFilmes2020/iconFilmesCorridas.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmesAcao</externallink>
+<fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] Filmes para quem curte velocidade[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
