@@ -363,4 +363,16 @@
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
+        <item>
+        <title>GLOBO NEWS</title>
+        <link>http://a.srvbr.me:8880/139179/139179/826</link>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <genre>Canais Abertos</genre>
+        <info>     </info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanarts/fanart.jpg</fanart>
+    <date></date>  <!-- format - dd.mm.yyyy -->
+    </item>  
+    ------------------------------------------------------------------------------
    </items> 
