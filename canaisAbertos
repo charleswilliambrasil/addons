@@ -4,9 +4,9 @@
       <title>Canais Abertos/title> <!-- a title is required, other elements are optional -->
       <genre>Canais Abertos</genre>
       <description>Filmes para quem gosta de corrida</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
       <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
+      <date>13.05.2020</date>
       <credits>Charles William</credits>
     </items_info>
 
@@ -14,7 +14,7 @@
  <item>
         <title>A&E</title>
         <link>http://a.srvbr.me:8880/139179/139179/4167</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/iconANIMALPLANET.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/ae_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -39,7 +39,7 @@
  <item>
         <title>amc</title>
         <link>http://a.srvbr.me:8880/139179/139179/5077</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -52,7 +52,7 @@
     <item>
         <title>arte1</title>
         <link>http://a.srvbr.me:8880/139179/139179/894</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/arte_1_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -65,7 +65,7 @@
     <item>
         <title>AXN</title>
         <link>http://a.srvbr.me:8880/139179/139179/893</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/axn_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -78,7 +78,7 @@
     <item>
         <title>BAND</title>
         <link>http://a.srvbr.me:8880/139179/139179/5475</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/band.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -90,7 +90,7 @@
     <item>
         <title>BAND NEWS</title>
         <link>http://a.srvbr.me:8880/139179/139179/890</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/band_news.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -102,7 +102,7 @@
     <item>
         <title>BAND SPORT</title>
         <link>http://a.srvbr.me:8880/139179/139179/888</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/band_sports.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -114,7 +114,7 @@
     <item>
         <title>BOOMERANG</title>
         <link>http://a.srvbr.me:8880/139179/139179/884</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/boomerang_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -126,7 +126,7 @@
     <item>
         <title>CARTOON NETWORK</title>
         <link>http://a.srvbr.me:8880/139179/139179/878</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/cartoon_network_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -138,7 +138,7 @@
     <item>
         <title>CINEMAX</title>
         <link>http://a.srvbr.me:8880/139179/139179/876</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/cinemax_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -150,7 +150,7 @@
     <item>
         <title>COMEDY CENTRAL</title>
         <link>http://a.srvbr.me:8880/139179/139179/873</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png </thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/comedy_central_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -174,7 +174,7 @@
     <item>
         <title>Disney Channel</title>
         <link>http://a.srvbr.me:8880/139179/139179/1493</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/disney_channel_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -186,7 +186,7 @@
      <item>
         <title>Disney Junior</title>
         <link>http://a.srvbr.me:8880/139179/139179/5562</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/disney_junior_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -198,7 +198,7 @@
     <item>
         <title>Disney XD</title>
         <link>http://a.srvbr.me:8880/139179/139179/858</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/disney_xd_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -210,7 +210,7 @@
     <item>
         <title>ESPN</title>
         <link>http://a.srvbr.me:8880/139179/139179/4643</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/espn_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -222,7 +222,7 @@
     <item>
         <title>ESPN EXTRA</title>
         <link>http://a.srvbr.me:8880/139179/139179/851</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/espn_plus.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -246,7 +246,7 @@
     <item>
         <title>food network</title>
         <link>http://a.srvbr.me:8880/139179/139179/4145</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -258,7 +258,7 @@
     <item>
         <title>FOX CHANNEL</title>
         <link>http://a.srvbr.me:8880/139179/139179/841</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/fx_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -270,7 +270,7 @@
     <item>
         <title>FOX PREMIUM 1</title>
         <link>http://a.srvbr.me:8880/139179/139179/843</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -282,7 +282,7 @@
     <item>
         <title>FOX PREMIUM 2</title>
         <link>http://a.srvbr.me:8880/139179/139179/5317</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -294,7 +294,7 @@
     <item>
         <title>FOX Life</title>
         <link>http://a.srvbr.me:8880/139179/139179/840</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/fox_life_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -306,7 +306,7 @@
      <item>
         <title>FOX SPORTS</title>
         <link>http://a.srvbr.me:8880/139179/139179/837</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -318,7 +318,7 @@
      <item>
         <title>FOX SPORTS 2</title>
         <link>http://a.srvbr.me:8880/139179/139179/836</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -330,7 +330,7 @@
      <item>
         <title>FUTURA</title>
         <link>http://a.srvbr.me:8880/139179/139179/5316</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -342,7 +342,7 @@
      <item>
         <title>FX</title>
         <link>http://a.srvbr.me:8880/139179/139179/832</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/fx_br.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -354,7 +354,7 @@
      <item>
         <title>GLOBO</title>
         <link>http://a.srvbr.me:8880/139179/139179/5315</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/rede_globo.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -366,7 +366,7 @@
       <item>
         <title>GLOBO NEWS</title>
         <link>http://a.srvbr.me:8880/139179/139179/826</link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/globo_news.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -376,9 +376,9 @@
     </item>  
     ------------------------------------------------------------------------------
       <item>
-        <title>TELECINE</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <title>XXXXXXXXXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/826</link>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -388,112 +388,41 @@
     </item>  
     ------------------------------------------------------------------------------
       <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <title>XXXXXXXXXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/826</link>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
          <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
+    </item>   
     ------------------------------------------------------------------------------
       <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <title>XXXXXXXXXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/826</link>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
          <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
+    </item>   
     ------------------------------------------------------------------------------
       <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <title>XXXXXXXXXX</title>
+        <link>http://a.srvbr.me:8880/139179/139179/826</link>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
          <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
+    </item>   
     ------------------------------------------------------------------------------
-      <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------
-      <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------
-      <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------
-      <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------
-      <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------
-      <item>
-        <title>xxxx</title>
-        <link> </link>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <genre>Canais Abertos</genre>
-        <info>     </info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
-    <date></date>  <!-- format - dd.mm.yyyy -->
-    </item>  
-    ------------------------------------------------------------------------------
-
+     
+    
    </items> 
