@@ -3,10 +3,10 @@
     <items_info> <!-- this is opitonal -->
       <title>Canais Abertos/title> <!-- a title is required, other elements are optional -->
       <genre>Canais Abertos</genre>
-      <description>Filmes para quem gosta de corrida</description>
+      <description>Distribuição gratuita, somente para amigos. VENDA PROIBIDA</description>
       <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
       <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
+      <date>13.05.2020</date>
       <credits>Charles William</credits>
     </items_info>
 
@@ -162,7 +162,7 @@
     <item>
         <title>COMBATE</title>
         <link>http://a.srvbr.me:8880/139179/139179/5474</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/iconCOMBATE.png</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/iconCOMBATE.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
