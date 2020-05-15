@@ -9,11 +9,11 @@ o<channels>
 
 [COLOR deeppink]|[/COLOR] - Lançamentos de 2020  [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+
 <channel>
 <name>[COLOR yellow]Filmes 2019[/COLOR]</name>
 <thumbnail>https://archive.org/download/iconFilmes2020/iconFilmes2019.png</thumbnail>
@@ -24,10 +24,10 @@ o<channels>
 
 [COLOR deeppink]Lançamentos de 2019[/COLOR]</info>
 </channel>
-</channels>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
+
 <channel>
 <name>[COLOR white]Filmes de Corridas[/COLOR]</name>
 <thumbnail>https://ia601503.us.archive.org/12/items/iconFilmes2020/iconFilmesCorridas.png</thumbnail>
@@ -38,11 +38,11 @@ o<channels>
 
 [COLOR deeppink]|[/COLOR] Filmes para quem curte velocidade[COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
+
 <channel>
 <name>[COLOR green]Filmes de Ação[/COLOR]</name>
 <thumbnail>https://ia601503.us.archive.org/12/items/iconFilmes2020/iconFilmesCorridas.png</thumbnail>
