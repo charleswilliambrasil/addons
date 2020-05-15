@@ -19,7 +19,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http:/forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http:/ruadosbiquinis.com.br/imagens/kodi/default/fanartANIMALPLANET.jpg</fanart>
+         <fanart>http:/ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
    <date></date>  <!-- format - dd.mm.yyyy -->
    </item>
 ------------------------------------------------------------------------------
@@ -31,7 +31,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http:/forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http:/ruadosbiquinis.com.br/imagens/kodi/default/canais/animalplanet.jpg</fanart>
+         <fanart>http:/ruadosbiquinis.com.br/imagens/kodi/fanartes/canais/animalplanet.jpg</fanart>
    <date></date>  <!-- format - dd.mm.yyyy -->
    </item>
 
