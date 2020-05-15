@@ -1,32 +1,4 @@
-o<channels>
-<channel>
-<name>[COLOR orangered]Filmes 2020[/COLOR]</name>
-<thumbnail>https://archive.org/download/iconFilmes2020/iconFilmes2020.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes2020</externallink>
-<fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - Lançamentos de 2020  [COLOR deeppink]|[/COLOR]</info>
-</channel>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channel>
-<name>[COLOR yellow]Filmes 2019[/COLOR]</name>
-<thumbnail>https://archive.org/download/iconFilmes2020/iconFilmes2019.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes2019</externallink>
-<fanart>https://ia601408.us.archive.org/31/items/bemvindo_20200512/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]Lançamentos de 2019[/COLOR]</info>
-</channel>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
 
 <channel>
 <name>[COLOR white]Filmes de Corridas[/COLOR]</name>
@@ -51,7 +23,7 @@ o<channels>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] Filmes para quem curte velocidade[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] Filmes para quem curte muitos tiros e socos[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
