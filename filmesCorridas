@@ -30,6 +30,8 @@
         <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/filmes/iconCorridaMortal_I.jpg</thumbnail>
         <genre>Corrida</genre>
         <info>
+            Condenado injustamente por assassinato, um ex-piloto é obrigado a participar de uma corrida mortal contra outros prisioneiros em que vale usar todo tipo de armamento.
+[B]Estrelando:[/B]Jason Statham,Joan Allen,Ian McShane
         
     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
@@ -44,7 +46,7 @@
         <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/filmes/iconCorridaMortal_II.jpg</thumbnail>
         <genre>Corrida</genre>
         <info>
-        
+        Um prisioneiro chamado Carl Lucas compete em uma corrida mortal onde arsenais são embutidos em automóveis de corrida.
     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
@@ -56,7 +58,7 @@
         <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/filmes/iconCorridaMortal_III.jpg</thumbnail>
         <genre>Corrida</genre>
         <info>
-        
+        A corrida de carros mais mortal do mundo acontece no isolado Deserto do Kalahari, na África do Sul, onde o prisioneiro Carl Lucas precisa vencer a última competição para recuperar sua liberdade.
     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
