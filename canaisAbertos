@@ -4,7 +4,7 @@
       <title>Canais Abertos/title> <!-- a title is required, other elements are optional -->
       <genre>Canais Abertos</genre>
       <description>Filmes para quem gosta de corrida</description>
-      <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+      <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
       <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
       <date>13.05.2020</date>
       <credits>Charles William</credits>
@@ -19,7 +19,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanartANIMALPLANET.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanartANIMALPLANET.jpg</fanart>
    <date></date>  <!-- format - dd.mm.yyyy -->
    </item>
 ------------------------------------------------------------------------------
@@ -31,7 +31,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/canais/animalplanet.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/canais/animalplanet.jpg</fanart>
    <date></date>  <!-- format - dd.mm.yyyy -->
    </item>
 
@@ -39,12 +39,12 @@
  <item>
         <title>amc</title>
         <link>http://a.srvbr.me:8880/139179/139179/5077</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
    <date></date>  <!-- format - dd.mm.yyyy -->
    </item>
     
@@ -57,7 +57,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>
   
@@ -70,7 +70,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>
     
@@ -83,7 +83,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -95,7 +95,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -107,7 +107,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -119,7 +119,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -131,7 +131,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -143,7 +143,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
 
@@ -156,7 +156,7 @@
         <info>CNN Brasil é um canal de televisão por assinatura brasileiro que exibe programação jornalística durante todo o dia. Pertence à Novus Mídia, empresa fundada pelo co-fundador da MRV Engenharia, Rubens Menin e pelo ex-diretor de jornalismo da RecordTV, Douglas Tavolaro.</info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
 
@@ -169,7 +169,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -181,7 +181,7 @@
         <info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente à Globosat e distribuida via operadoras de tv por assinatura em sistema de pay-per-view. O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing. </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/canais/combate.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/canais/combate.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------  
@@ -205,7 +205,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------ 
@@ -217,7 +217,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------ 
@@ -229,7 +229,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------ 
@@ -241,7 +241,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
@@ -253,19 +253,19 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
     <item>
         <title>food network</title>
         <link>http://a.srvbr.me:8880/139179/139179/4145</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
@@ -277,31 +277,31 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
     <item>
         <title>FOX PREMIUM 1</title>
         <link>http://a.srvbr.me:8880/139179/139179/843</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
     <item>
         <title>FOX PREMIUM 2</title>
         <link>http://a.srvbr.me:8880/139179/139179/5317</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
@@ -313,43 +313,43 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
      <item>
         <title>FOX SPORTS</title>
         <link>http://a.srvbr.me:8880/139179/139179/837</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
      <item>
         <title>FOX SPORTS 2</title>
         <link>http://a.srvbr.me:8880/139179/139179/836</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
      <item>
         <title>FUTURA</title>
         <link>http://a.srvbr.me:8880/139179/139179/5316</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
@@ -361,7 +361,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
@@ -373,7 +373,7 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
@@ -385,55 +385,55 @@
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
       <item>
         <title>XXXXXXXXXX</title>
         <link>http://a.srvbr.me:8880/139179/139179/826</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpgxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>  
     ------------------------------------------------------------------------------
       <item>
         <title>XXXXXXXXXX</title>
         <link>http://a.srvbr.me:8880/139179/139179/826</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpgxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>   
     ------------------------------------------------------------------------------
       <item>
         <title>XXXXXXXXXX</title>
         <link>http://a.srvbr.me:8880/139179/139179/826</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpgxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>   
     ------------------------------------------------------------------------------
       <item>
         <title>XXXXXXXXXX</title>
         <link>http://a.srvbr.me:8880/139179/139179/826</link>
-        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/icones/canais/xxxxxxxx</thumbnail>
+        <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpgxxxx</thumbnail>
         <genre>Canais Abertos</genre>
         <info>     </info>
         <date></date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/fanartes/fanart.jpg</fanart>
+         <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
     <date></date>  <!-- format - dd.mm.yyyy -->
     </item>   
     ------------------------------------------------------------------------------
