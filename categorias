@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orangered]Filmes[/COLOR] </name>
-<thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconFilmes.png</thumbnail>
+<thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconFilmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/filmes</externallink>
 <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
 <info>
@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name>[COLOR white]Séries[/COLOR]</name>
-<thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconSeries.png</thumbnail>
+<thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconSeries.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/series</externallink>
 <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
 <info>
@@ -32,7 +32,7 @@
 <channels>
 <channel>
 <name> [COLOR yellow]Canais Abertos[/COLOR]</name>
-<thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.png</thumbnail>
+<thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/iconCanaisTV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/charleswilliambrasil/addons/master/canaisAbertos</externallink>
 <fanart>http://ruadosbiquinis.com.br/imagens/kodi/default/fanart.jpg</fanart>
 <info>
