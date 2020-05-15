@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
     <items_info> <!-- this is opitonal -->
-      <title>Corridas/title> <!-- a title is required, other elements are optional -->
+      <title>Corridas</title> <!-- a title is required, other elements are optional -->
       <genre>Corridas</genre>
       <description>Filmes para quem gosta de corrida</description>
       <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
       <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
+      <date>14.05.220</date>
       <credits>Charles William</credits>
     </items_info>
 
     <item>
-        <title>Corridas Clandestinas</title>
+        <title>[COLOR red][B]Corridas Clandestinas [/B][/COLOR]</title>
         <link>http://ruadosbiquinis.com.br/images/diversos/temp/Corridas/Corridas.Clandestinas.2003.DVDRip.XviD.Dublado.mp4</link>
         <thumbnail>https://ia801407.us.archive.org/15/items/fanartFilmesCorridas/iconFilmesCorridas.png</thumbnail>
         <genre>Corrida</genre>
@@ -25,7 +25,7 @@
     
        
     <item>
-        <title>[COLOR yellow]Corrida Mortal I[/COLOR]</title>
+        <title>[COLOR yellow][B]Corrida Mortal I [/B][/COLOR]</title>
         <link>http://ruadosbiquinis.com.br/images/diversos/temp/Corridas/CorridasMortais/CorridaMortal_I_(2008)_dublado_720p.mkv</link>
         <thumbnail>http://ruadosbiquinis.com.br/imagens/kodi/default/icon.jpg</thumbnail>
         <genre>Corrida</genre>
